@@ -1,0 +1,7 @@
+http_proxy=
+https_proxy=$http_proxy
+archdir=arch
+pkg="base base-devel git ffmpeg dropbear"
+user=arch
+password=
+url=https://linuximages.de/chroot/arch/arch-chroot-LATEST.tar.xz
